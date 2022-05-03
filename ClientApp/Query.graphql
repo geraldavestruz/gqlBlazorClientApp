@@ -1,0 +1,6 @@
+query GetCakes{
+  cakes{
+    id
+    flavor
+  }
+}

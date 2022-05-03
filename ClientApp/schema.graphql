@@ -1,0 +1,12 @@
+﻿schema {
+  query: Query
+}
+
+type Query {
+  cakes: [Cake!]!
+}
+
+type Cake {
+  id: Int!
+  flavor: String!
+}

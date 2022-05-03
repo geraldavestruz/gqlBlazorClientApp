@@ -1,0 +1,103 @@
+is_global = true
+build_property.StrawberryShake_DefaultNamespace = ClientApp
+build_property.StrawberryShake_BuildDirectory = C:\Users\Administrator\.nuget\packages\strawberryshake.codegeneration.csharp.analyzers\13.0.0-preview.19\build\..\analyzers\dotnet\cs
+build_property.StrawberryShake_CodeGenServer = C:\Users\Administrator\.nuget\packages\strawberryshake.codegeneration.csharp.analyzers\13.0.0-preview.19\build\gen\BerryCodeGen.dll
+build_property.StrawberryShake_PersistedQueryDirectory = 
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\ClientApp
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\ClientApp
+build_property.MSBuildProjectFile = ClientApp.csproj
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = ClientApp
+build_property.RootNamespace = ClientApp
+build_property.ProjectDir = C:\Users\Administrator\ClientApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Administrator/ClientApp/ClientApp/Query.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/ClientApp/schema.extensions.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/ClientApp/schema.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/bin/Debug/net6.0/.graphqlrc.json]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = true
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/ClientApp/.graphqlrc.json]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = true
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/App.razor]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/_Imports.razor]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Administrator/ClientApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9hqbptr0vy
+
+[C:/Users/Administrator/ClientApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = 
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3dzslfjxd2
