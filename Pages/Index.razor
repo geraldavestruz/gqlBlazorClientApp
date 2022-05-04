@@ -1,7 +1,7 @@
 ﻿@page "/"
 
-
 @inject cakeGqlClient _cakeGqlClient
+
 
 <PageTitle>Index</PageTitle>
 
@@ -20,15 +20,21 @@ Welcome to your new app.
 
 
 @code{
+
     List<CakeDto> allCakes = new List<CakeDto>();
 
     protected override async Task OnInitializedAsync()
     {
+
         var result = await _cakeGqlClient.GetCakes.ExecuteAsync();
+
+        if(result.Data is not null)
+        {
             allCakes = result.Data.Cakes.Select(c => new CakeDto{
                 Id = c.Id,
-                Flavor = c.flavor
+                Flavor = c.Flavor
             }).ToList();
+        }
     }
     
 }
