@@ -837,4 +837,4 @@ C:\Users\Administrator\ClientApp\obj\Debug\net6.0\ClientApp.dll
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\refint\ClientApp.dll
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\ClientApp.pdb
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\ref\ClientApp.dll
-C:\Users\Administrator\ClientApp\bin\Debug\net6.0\ClientApp\.graphqlrc.json
+C:\Users\Administrator\ClientApp\bin\Debug\net6.0\CakeSchema\.graphqlrc.json

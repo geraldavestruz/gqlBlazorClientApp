@@ -24,31 +24,31 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Administrator/ClientApp/ClientApp/Query.graphql]
+[C:/Users/Administrator/ClientApp/CakeSchema/Query.graphql]
 build_metadata.AdditionalFiles.GraphQL = true
 build_metadata.AdditionalFiles.GraphQLConfig = 
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/ClientApp/ClientApp/schema.extensions.graphql]
+[C:/Users/Administrator/ClientApp/CakeSchema/schema.extensions.graphql]
 build_metadata.AdditionalFiles.GraphQL = true
 build_metadata.AdditionalFiles.GraphQLConfig = 
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/ClientApp/ClientApp/schema.graphql]
+[C:/Users/Administrator/ClientApp/CakeSchema/schema.graphql]
 build_metadata.AdditionalFiles.GraphQL = true
 build_metadata.AdditionalFiles.GraphQLConfig = 
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/ClientApp/bin/Debug/net6.0/.graphqlrc.json]
+[C:/Users/Administrator/ClientApp/bin/Debug/net6.0/CakeSchema/.graphqlrc.json]
 build_metadata.AdditionalFiles.GraphQL = 
 build_metadata.AdditionalFiles.GraphQLConfig = true
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Administrator/ClientApp/ClientApp/.graphqlrc.json]
+[C:/Users/Administrator/ClientApp/CakeSchema/.graphqlrc.json]
 build_metadata.AdditionalFiles.GraphQL = 
 build_metadata.AdditionalFiles.GraphQLConfig = true
 build_metadata.AdditionalFiles.TargetPath = 
