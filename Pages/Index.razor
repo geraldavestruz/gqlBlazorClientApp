@@ -1,5 +1,7 @@
 ﻿@page "/"
 
+@inject cakeGqlClient _cakeGqlClient
+
 <PageTitle>Index</PageTitle>
 
 <h1>Hello, world!</h1>
@@ -7,3 +9,18 @@
 Welcome to your new app.
 
 <SurveyPrompt Title="How is Blazor working for you?" />
+
+
+@code{
+    List<CakeDtos> allCakes = new List<CakeDtos>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var result = await _cakeGqlClient.GetCakes.ExecuteAsync();
+
+            allCakes = result.Data.allCakes.Select(c => new Dtos{
+                Id = c.Id,
+                flavor = c.flavor
+            }).ToList();
+    }
+}
