@@ -15,9 +15,8 @@ Welcome to your new app.
 @foreach (var cake in allCakes )
 {
     <li>@cake.Id</li>
-    <li>@cake.flavor</li>
+    <li>@cake.Flavor</li>
 }
-
 
 @code{
 
@@ -28,13 +27,10 @@ Welcome to your new app.
 
         var result = await _cakeGqlClient.GetCakes.ExecuteAsync();
 
-        if(result.Data is not null)
-        {
             allCakes = result.Data.Cakes.Select(c => new CakeDto{
                 Id = c.Id,
                 Flavor = c.Flavor
             }).ToList();
-        }
     }
-    
 }
+   
