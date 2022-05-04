@@ -3,8 +3,8 @@
   "documents": "**/*.graphql",
   "extensions": {
     "strawberryShake": {
-      "namespace" : "clientApp.CakeSchema",
       "name": "cakeGqlClient",
+      "namespace" : "ClientApp.CakeSchema",
       "url": "https://localhost:7156/graphql/",
       "dependencyInjection": true,
       "strictSchemaValidation": true,

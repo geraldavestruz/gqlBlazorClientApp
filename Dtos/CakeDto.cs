@@ -1,6 +1,6 @@
 namespace ClientApp.Dtos
 {
-    public class CakeDtos
+    public class CakeDto
     {
         public int Id { get; set; }
         

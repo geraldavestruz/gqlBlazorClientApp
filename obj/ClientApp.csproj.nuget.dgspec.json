@@ -57,11 +57,11 @@
             },
             "StrawberryShake.CodeGeneration.CSharp.Analyzers": {
               "target": "Package",
-              "version": "[13.0.0-preview.19, )"
+              "version": "[12.6.0, )"
             },
             "StrawberryShake.Transport.Http": {
               "target": "Package",
-              "version": "[13.0.0-preview.19, )"
+              "version": "[12.6.0, )"
             }
           },
           "imports": [

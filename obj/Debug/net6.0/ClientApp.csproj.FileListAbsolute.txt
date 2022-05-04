@@ -15,7 +15,6 @@ C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.A
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
-C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.WebUtilities.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
@@ -34,7 +33,6 @@ C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.E
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Net.Http.Headers.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
@@ -301,7 +299,6 @@ C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\System.IO.F
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
-C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Net.Http.Headers.dll.gz
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
@@ -314,7 +311,6 @@ C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
-C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.WebUtilities.dll.gz
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
@@ -418,7 +414,6 @@ C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.AspNetCore.Component
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
-C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.AspNetCore.WebUtilities.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
@@ -436,7 +431,6 @@ C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.Extensions.Options.d
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.JSInterop.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
-C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Microsoft.Net.Http.Headers.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\StrawberryShake.Core.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\StrawberryShake.Resources.dll
 C:\Users\Administrator\ClientApp\bin\Debug\net6.0\StrawberryShake.Transport.Http.dll
@@ -626,7 +620,6 @@ C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\YVfluV+J.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\KQmoM075.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\p2X5J1Mv.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\oNUnN0Li.gz
-C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\KdHAFtzu.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\NYTx89Lr.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\ES1ECvVb.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\pKC1JB9a.gz
@@ -644,10 +637,6 @@ C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\Dme+EfEX.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\oTKfBjVZ.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\UIYW+ry8.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\XW4l53OV.gz
-C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\Ilmgc+3u.gz
-C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\BV+E3z++.gz
-C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\7VuTLLVn.gz
-C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\mXeMdMvN.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\NBokq9OR.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\Gt2c0DVq.gz
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\45Sfi9S6.gz
@@ -837,4 +826,14 @@ C:\Users\Administrator\ClientApp\obj\Debug\net6.0\ClientApp.dll
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\refint\ClientApp.dll
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\ClientApp.pdb
 C:\Users\Administrator\ClientApp\obj\Debug\net6.0\ref\ClientApp.dll
-C:\Users\Administrator\ClientApp\bin\Debug\net6.0\CakeSchema\.graphqlrc.json
+C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\StrawberryShake.Tools.Configuration.dll
+C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\Administrator\ClientApp\bin\Debug\net6.0\wwwroot\_framework\StrawberryShake.Tools.Configuration.dll.gz
+C:\Users\Administrator\ClientApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\ClientApp\bin\Debug\net6.0\StrawberryShake.Tools.Configuration.dll
+C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\f1yVXm4c.gz
+C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\efwb6WEC.gz
+C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\Et8ctR10.gz
+C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\Z2G23c7l.gz
+C:\Users\Administrator\ClientApp\obj\Debug\net6.0\build-gz\z3LW6Z4f.gz

@@ -1,11 +1,10 @@
 is_global = true
 build_property.StrawberryShake_DefaultNamespace = ClientApp
-build_property.StrawberryShake_BuildDirectory = C:\Users\Administrator\.nuget\packages\strawberryshake.codegeneration.csharp.analyzers\13.0.0-preview.19\build\..\analyzers\dotnet\cs
-build_property.StrawberryShake_CodeGenServer = C:\Users\Administrator\.nuget\packages\strawberryshake.codegeneration.csharp.analyzers\13.0.0-preview.19\build\gen\BerryCodeGen.dll
+build_property.StrawberryShake_LogFile = 
+build_property.StrawberryShake_BuildDirectory = C:\Users\Administrator\.nuget\packages\strawberryshake.codegeneration.csharp.analyzers\12.6.0\build\..\analyzers\dotnet\cs
 build_property.StrawberryShake_PersistedQueryDirectory = 
-build_property.MSBuildProjectDirectory = C:\Users\Administrator\ClientApp
-build_property.MSBuildProjectDirectory = C:\Users\Administrator\ClientApp
-build_property.MSBuildProjectFile = ClientApp.csproj
+build_property.StrawberryShake_State = obj\\berry
+build_property.StrawberryShake_EmitGeneratedCode = 
 build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -22,6 +21,7 @@ build_property.ProjectDir = C:\Users\Administrator\ClientApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Administrator\ClientApp
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/Administrator/ClientApp/CakeSchema/Query.graphql]
@@ -39,12 +39,6 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Administrator/ClientApp/CakeSchema/schema.graphql]
 build_metadata.AdditionalFiles.GraphQL = true
 build_metadata.AdditionalFiles.GraphQLConfig = 
-build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Administrator/ClientApp/bin/Debug/net6.0/CakeSchema/.graphqlrc.json]
-build_metadata.AdditionalFiles.GraphQL = 
-build_metadata.AdditionalFiles.GraphQLConfig = true
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
 

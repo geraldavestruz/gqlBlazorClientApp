@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vew9MgXvG5JdW5prPhHMjy8cCzfOI+VyT22o3doIxx8=",
+  "Hash": "XjJ6nivp5OJoGWQ2GO1BzbdffVz/DOjDky3+AaDUFWI=",
   "Source": "ClientApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -304,23 +304,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.4\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll",
-      "SourceId": "ClientApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.WebUtilities.dll",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\lib\\netstandard2.0\\Microsoft.AspNetCore.WebUtilities.dll"
     },
     {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -629,23 +612,6 @@
       "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.4\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll",
-      "SourceId": "ClientApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Net.Http.Headers.dll",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\lib\\netstandard2.0\\Microsoft.Net.Http.Headers.dll"
-    },
-    {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -748,6 +714,23 @@
       "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.4\\runtimes\\browser-wasm\\lib\\net6.0\\netstandard.dll"
     },
     {
+      "Identity": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\9.0.1\\lib\\netstandard1.0\\Newtonsoft.Json.dll"
+    },
+    {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Core.dll",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -762,7 +745,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\strawberryshake.core\\13.0.0-preview.19\\lib\\net6.0\\StrawberryShake.Core.dll"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\strawberryshake.core\\12.6.0\\lib\\net6.0\\StrawberryShake.Core.dll"
     },
     {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Resources.dll",
@@ -779,7 +762,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\strawberryshake.resources\\13.0.0-preview.19\\lib\\net6.0\\StrawberryShake.Resources.dll"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\strawberryshake.resources\\12.6.0\\lib\\net6.0\\StrawberryShake.Resources.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Tools.Configuration.dll",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/StrawberryShake.Tools.Configuration.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\strawberryshake.tools.configuration\\12.6.0\\lib\\net6.0\\StrawberryShake.Tools.Configuration.dll"
     },
     {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Transport.Http.dll",
@@ -796,7 +796,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\strawberryshake.transport.http\\13.0.0-preview.19\\lib\\net6.0\\StrawberryShake.Transport.Http.dll"
+      "OriginalItemSpec": "C:\\Users\\Administrator\\.nuget\\packages\\strawberryshake.transport.http\\12.6.0\\lib\\net6.0\\StrawberryShake.Transport.Http.dll"
     },
     {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.AppContext.dll",
@@ -3978,23 +3978,6 @@
       "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Csp.dll"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\7VuTLLVn.gz",
-      "SourceId": "ClientApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/StrawberryShake.Resources.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Resources.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Resources.dll"
-    },
-    {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\7XUl3tqn.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -4369,23 +4352,6 @@
       "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.timezones.blat"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\BV+E3z++.gz",
-      "SourceId": "ClientApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/StrawberryShake.Core.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Core.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Core.dll"
-    },
-    {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\CeIA0kvu.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -4641,6 +4607,23 @@
       "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Principal.dll"
     },
     {
+      "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\efwb6WEC.gz",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/StrawberryShake.Core.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Core.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Core.dll"
+    },
+    {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\Eh44Hylj.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -4726,6 +4709,23 @@
       "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll"
     },
     {
+      "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\Et8ctR10.gz",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/StrawberryShake.Resources.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Resources.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Resources.dll"
+    },
+    {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\EZcIlRxZ.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -4758,6 +4758,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Timer.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\f1yVXm4c.gz",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Newtonsoft.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Newtonsoft.Json.dll"
     },
     {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\FePX3B5L.gz",
@@ -5168,23 +5185,6 @@
       "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Loader.dll"
     },
     {
-      "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\Ilmgc+3u.gz",
-      "SourceId": "ClientApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Net.Http.Headers.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Net.Http.Headers.dll"
-    },
-    {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\j1acz8y2.gz",
       "SourceId": "ClientApp",
       "SourceType": "Computed",
@@ -5387,23 +5387,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.Registry.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\KdHAFtzu.gz",
-      "SourceId": "ClientApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.WebUtilities.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.WebUtilities.dll"
     },
     {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\kIsphljA.gz",
@@ -5693,23 +5676,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.NonGeneric.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\mXeMdMvN.gz",
-      "SourceId": "ClientApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/StrawberryShake.Transport.Http.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Transport.Http.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Transport.Http.dll"
     },
     {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\NBokq9OR.gz",
@@ -6934,6 +6900,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encodings.Web.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\Z2G23c7l.gz",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/StrawberryShake.Tools.Configuration.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Tools.Configuration.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Tools.Configuration.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\z3LW6Z4f.gz",
+      "SourceId": "ClientApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/StrawberryShake.Transport.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Transport.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Administrator\\ClientApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\StrawberryShake.Transport.Http.dll"
     },
     {
       "Identity": "C:\\Users\\Administrator\\ClientApp\\obj\\Debug\\net6.0\\build-gz\\z7gXMfM+.gz",

@@ -1,5 +1,6 @@
 ﻿@page "/"
 
+
 @inject cakeGqlClient _cakeGqlClient
 
 <PageTitle>Index</PageTitle>
@@ -11,16 +12,23 @@ Welcome to your new app.
 <SurveyPrompt Title="How is Blazor working for you?" />
 
 
+@foreach (var cake in allCakes )
+{
+    <li>@cake.Id</li>
+    <li>@cake.flavor</li>
+}
+
+
 @code{
-    List<CakeDtos> allCakes = new List<CakeDtos>();
+    List<CakeDto> allCakes = new List<CakeDto>();
 
     protected override async Task OnInitializedAsync()
     {
         var result = await _cakeGqlClient.GetCakes.ExecuteAsync();
-
-            allCakes = result.Data.allCakes.Select(c => new Dtos{
+            allCakes = result.Data.Cakes.Select(c => new CakeDto{
                 Id = c.Id,
-                flavor = c.flavor
+                Flavor = c.flavor
             }).ToList();
     }
+    
 }

@@ -1,6 +1,6 @@
 query GetCakes{
-  cakes{
-    id
-    flavor
-  }
+    cakes{
+        id
+        flavor
+    }
 }
